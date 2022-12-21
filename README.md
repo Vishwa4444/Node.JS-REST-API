@@ -1,5 +1,5 @@
 # Node.JS-REST-API
 Requirements -
-    Node.js installed
+    Node.js 
     PostMan
     MongoDB
