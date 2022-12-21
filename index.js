@@ -85,7 +85,6 @@ console.log(`Listening on port ${port}`)
 
 
 
-//---------------------------READING-------------------//
 
 
 //CRUD : create , Read , Update and delete
