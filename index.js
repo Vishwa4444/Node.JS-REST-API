@@ -88,4 +88,4 @@ console.log(`Listening on port ${port}`)
 
 
 //CRUD : create , Read , Update and delete
-//HTTP : GRT,POST,PUT/PATCH, DELETE
+//HTTP : GET,POST,PUT/PATCH, DELETE
